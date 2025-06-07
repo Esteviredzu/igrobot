@@ -34,14 +34,14 @@ source .venv/bin/activate
 
 ```cmd
 python -m venv .venv
-/venv\Scripts\activate
+/.venv\Scripts\activate
 ```
 
 #### ⚡ Windows (PowerShell):
 
 ```powershell
-python -m venv venv
-.\venv\Scripts\Activate.ps1
+python -m venv .venv
+.\.venv\Scripts\Activate.ps1
 ```
 
 ---
