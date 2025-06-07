@@ -1,0 +1,5 @@
+aiohttp
+aiogram
+chess
+redis[asyncio]
+python-dotenv
